@@ -10,4 +10,8 @@ console.log("asdad");
 var abhay = "";
 var p = "asas";
 var l = "aad";
+<<<<<<< HEAD
 var ty = "";
+=======
+var i = "";
+>>>>>>> b1
